@@ -49,4 +49,4 @@ Si tens habilitat amb el llenguatge de programacio utilitzat a Elite Dangerous i
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Aquest projecte esta sota la llicencia de Frontier Developments.
