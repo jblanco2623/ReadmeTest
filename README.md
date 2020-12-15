@@ -37,11 +37,8 @@ Pots trobar més informació sobre el mon d'Elite Dangerous a la [Wiki](https://
 
 ## Construit amb les tecnologies... 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+S'utilitza el motor [COBRA](https://www.frontier.co.uk/node/639) per al desenvolupament d'Elite Dangerous.
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
 ## Contribuir al desenvolupament 🖇️
 
